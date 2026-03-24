@@ -4,3 +4,6 @@ Tartaruga
 
 
 cachorro
+Squirtle
+Baleia
+Golfinho
