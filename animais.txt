@@ -1,9 +1,5 @@
 Tartaruga
-
-
-
-
-cachorro
+Cachorro
 Squirtle
 Baleia
 Golfinho
